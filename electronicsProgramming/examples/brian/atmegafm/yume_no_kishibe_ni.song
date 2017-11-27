@@ -1,0 +1,763 @@
+*channels 5
+*speed 17
+*instrument 0 4
+*instrument 1 4
+*instrument 2 2
+*instrument 3 2
+*instrument 4 0
+*volume 0 40
+*volume 1 40
+*volume 2 100
+*volume 3 100
+*volume 4 110
+OFF	OFF	OFF	OFF	OFF	
+					
+
+
+
+					
+A5	D6				
+.	.				
+.	.				
+.	.				
+.	.				
+.	.				
+.	.				
+OFF	OFF				
+A5	D6	D4			
+OFF	OFF	.			
+		OFF	A4		
+		F5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	A4		
+		D5	OFF		
+		OFF	F5		
+A5	D6	D4	OFF		
+OFF	OFF	.			
+		OFF	A4		
+		F5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	A4		
+		D5	OFF		
+		OFF	F5		
+A5	D6	A#3	OFF		
+OFF	OFF	.			
+		OFF	F4		
+		F5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	F4		
+		E5	OFF		
+		OFF	F5		
+A5	D6	A#3	OFF		
+OFF	OFF	.			
+		OFF	F4		
+		E5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	F4		
+		D5	OFF		
+		.			
+A5	C6	OFF	F4		
+OFF	OFF		.		
+		C5	OFF		
+		OFF	A5		
+A5	C6		.		
+OFF	OFF	C5	OFF		
+		OFF	G5		
+		A5	OFF		
+A5	C6	OFF	F4		
+OFF	OFF		.		
+		C5	OFF		
+		OFF	A#5		
+A5	C6		.		
+OFF	OFF	C5	OFF		
+		OFF	A5		
+			.		
+G5	C6	C4	OFF		
+OFF	OFF	.			
+		OFF	G4		
+		G5	OFF		
+G5	C6	.			
+OFF	OFF	OFF	G4		
+		F5	OFF		
+		OFF	G5		
+G5	C6	C4	OFF		
+OFF	OFF	.			
+		OFF	G4		
+		F5	OFF		
+G5	C6	.			
+OFF	OFF	OFF	G4		
+		E5	OFF		
+		.			
+A5	D6	OFF	D4	D5	
+OFF	OFF		.	.	
+		A4	OFF	.	
+		OFF	F5	.	
+A5	D6		.	.	
+OFF	OFF	A4	OFF	.	
+		OFF	D5	.	
+		F5	OFF	.	
+A5	D6	OFF	D4	D6	
+OFF	OFF		.	.	
+		A4	OFF	.	
+		OFF	F5	.	
+A5	D6		.	.	
+OFF	OFF	A4	OFF	.	
+		OFF	D5	.	
+		F5	OFF	.	
+A5	D6	OFF	A#3	F5	
+OFF	OFF		.	.	
+		F4	OFF	.	
+		OFF	F5	.	
+A5	D6		.	.	
+OFF	OFF	F4	OFF	.	
+		OFF	E5	.	
+		F5	OFF	.	
+A5	D6	OFF	A#3	.	
+OFF	OFF		.	.	
+		F4	OFF	.	
+		OFF	E5	.	
+A5	D6		.	D5	
+OFF	OFF	F4	OFF	.	
+		OFF	D5	F5	
+			.	.	
+A5	C6	F4	OFF	A5	
+OFF	OFF	.		.	
+		OFF	C5	.	
+		A5	OFF	.	
+A5	C6	.		.	
+OFF	OFF	OFF	C5	.	
+		G5	OFF	.	
+		OFF	A5	.	
+A5	C6	F4	OFF	.	
+OFF	OFF	.		.	
+		OFF	C5	A#5	
+		A#5	OFF	.	
+A5	C6	.		.	
+OFF	OFF	OFF	C5	.	
+		A5	OFF	A#5	
+		.		A5	
+G5	C6	OFF	C4	G5	
+OFF	OFF		.	.	
+		G4	OFF	.	
+		OFF	G5	.	
+G5	C6		.	.	
+OFF	OFF	G4	OFF	.	
+		OFF	F5	.	
+		G5	OFF	.	
+G5	C6	OFF	C4	.	
+OFF	OFF		.	.	
+		G4	OFF	.	
+		OFF	F5	.	
+G5	C6		.	F5	
+OFF	OFF	G4	OFF	.	
+		OFF	E5	E5	
+			.	.	
+A5	D6	D4	OFF	D5	
+OFF	OFF	.		.	
+		OFF	A4	.	
+		F5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	A4	.	
+		D5	OFF	.	
+		OFF	F5	.	
+A5	D6	D4	OFF	D6	
+OFF	OFF	.		.	
+		OFF	A4	.	
+		F5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	A4	.	
+		D5	OFF	.	
+		OFF	F5	.	
+A5	D6	A#3	OFF	F5	
+OFF	OFF	.		.	
+		OFF	F4	.	
+		F5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	F4	.	
+		E5	OFF	.	
+		OFF	F5	.	
+A5	D6	A#3	OFF	.	
+OFF	OFF	.		.	
+		OFF	F4	.	
+		E5	OFF	.	
+A5	D6	.		D5	
+OFF	OFF	OFF	F4	.	
+		D5	OFF	F5	
+		.		.	
+A5	C6	OFF	F4	A5	
+OFF	OFF		.	.	
+		C5	OFF	.	
+		OFF	A5	.	
+A5	C6		.	.	
+OFF	OFF	C5	OFF	.	
+		OFF	G5	.	
+		A5	OFF	.	
+A5	C6	OFF	F4	.	
+OFF	OFF		.	.	
+		C5	OFF	A#5	
+		OFF	A#5	.	
+A5	C6		.	.	
+OFF	OFF	C5	OFF	.	
+		OFF	A5	A#5	
+			.	A5	
+G5	C6	C4	OFF	G5	
+OFF	OFF	.		.	
+		OFF	G4	.	
+		G5	OFF	.	
+G5	C6	.		.	
+OFF	OFF	OFF	G4	.	
+		F5	OFF	.	
+		OFF	G5	.	
+G5	C6	C4	OFF	.	
+OFF	OFF	.		.	
+		OFF	G4	.	
+		F5	OFF	.	
+G5	C6	.		F5	
+OFF	OFF	OFF	G4	.	
+		E5	OFF	E5	
+		.		.	
+A5	D6	OFF	A#3	D5	
+OFF	OFF		.	.	
+		F4	OFF	.	
+		OFF	D5	.	
+A5	D6		.	.	
+OFF	OFF	F4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	.	
+A5	D6	OFF	A#3	F5	
+OFF	OFF		.	.	
+		F4	OFF	.	
+		OFF	D5	.	
+A5	D6		.	.	
+OFF	OFF	F4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	F5	
+G5	C6	OFF	A3	E5	
+OFF	OFF		.	.	
+		E4	OFF	.	
+		OFF	C5	.	
+G5	C6		.	.	
+OFF	OFF	E4	OFF	.	
+		OFF	B4	.	
+		C5	OFF	.	
+G5	C6	OFF	A3	C5	
+OFF	OFF		.	.	
+		E4	OFF	.	
+		OFF	C5	.	
+G5	C6		.	.	
+OFF	OFF	E4	OFF	.	
+		OFF	B4	A4	
+		C5	OFF	.	
+A5	D6	OFF	D4	C5	
+OFF	OFF		.	.	
+		A4	OFF	D5	
+		OFF	E5	OFF	
+A5	D6		.	D5	
+OFF	OFF	A4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	.	
+A5	D6	OFF	D4	.	
+OFF	OFF		.	.	
+		A4	OFF	.	
+		OFF	E5	.	
+A5	D6		.	.	
+OFF	OFF	A4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	.	
+A5	D6	OFF	D4	.	
+OFF	OFF		.	.	
+		A4	OFF	.	
+		OFF	E5	.	
+A5	D6		.	.	
+OFF	OFF	A4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	.	
+A5	D6	OFF	D4	.	
+OFF	OFF		.	.	
+		A4	OFF	.	
+		OFF	E5	.	
+A5	D6		.	.	
+OFF	OFF	A4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	.	
+A5	D6	OFF	A#3	OFF	
+OFF	OFF		.		
+		F4	OFF		
+		OFF	D5		
+A5	D6		.	D5	
+OFF	OFF	F4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	.	
+A5	D6	OFF	A#3	F5	
+OFF	OFF		.	.	
+		F4	OFF	.	
+		OFF	D5	.	
+A5	D6		.	.	
+OFF	OFF	F4	OFF	.	
+		OFF	C5	.	
+		D5	OFF	F5	
+G5	C6	OFF	A3	E5	
+OFF	OFF		.	.	
+		E4	OFF	.	
+		OFF	C5	.	
+G5	C6		.	.	
+OFF	OFF	E4	OFF	.	
+		OFF	B4	.	
+		C5	OFF	.	
+G5	C6	OFF	A3	G5	
+OFF	OFF		.	.	
+		E4	OFF	.	
+		OFF	C5	.	
+G5	C6		.	.	
+OFF	OFF	E4	OFF	.	
+		OFF	B4	.	
+		C5	OFF	.	
+A5	D6	OFF	G3	.	
+OFF	OFF		.	.	
+		D4	OFF	OFF	
+		OFF	B4		
+A5	D6		.	G5	
+OFF	OFF	D4	OFF	.	
+		OFF	A4	.	
+		B4	OFF	.	
+A5	D6	OFF	G3	D5	
+OFF	OFF		.	.	
+		D4	OFF	.	
+		OFF	B4	.	
+A5	D6		.	.	
+OFF	OFF	D4	OFF	.	
+		OFF	A4	E5	
+		B4	OFF	F5	
+A5	C#6	OFF	A3	E5	
+OFF	OFF		.	.	
+		E4	OFF	.	
+		OFF	C#5	.	
+A5	C#6		.	.	
+OFF	OFF	E4	OFF	.	
+		OFF	B4	.	
+		C#5	OFF	.	
+A5	C#6	OFF	D5	.	
+OFF	OFF	A3	OFF	.	
+		OFF	E5	.	
+		E4	OFF	.	
+A5	C#6	OFF	F5	.	
+OFF	OFF	A4	OFF	.	
+		OFF	E5	.	
+			.	.	
+A5	C#6	A5	OFF	.	
+OFF	OFF	.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+		.		.	
+A5	D6	OFF	D4	OFF	
+OFF	OFF		.		
+		A4	OFF		
+		OFF	F5		
+A5	D6		.		
+OFF	OFF	A4	OFF		
+		OFF	D5		
+		F5	OFF		
+A5	D6	OFF	D4		
+OFF	OFF		.		
+		A4	OFF		
+		OFF	F5		
+A5	D6		.		
+OFF	OFF	A4	OFF		
+		OFF	D5		
+		F5	OFF		
+A5	D6	OFF	A#3		
+OFF	OFF		.		
+		F4	OFF		
+		OFF	F5		
+A5	D6		.		
+OFF	OFF	F4	OFF		
+		OFF	E5		
+		F5	OFF		
+A5	D6	OFF	A#3		
+OFF	OFF		.		
+		F4	OFF		
+		OFF	E5		
+A5	D6		.		
+OFF	OFF	F4	OFF		
+		OFF	D5		
+			.		
+A5	C6	F4	OFF		
+OFF	OFF	.			
+		OFF	C5		
+		A5	OFF		
+A5	C6	.			
+OFF	OFF	OFF	C5		
+		G5	OFF		
+		OFF	A5		
+A5	C6	F4	OFF		
+OFF	OFF	.			
+		OFF	C5		
+		A#5	OFF		
+A5	C6	.			
+OFF	OFF	OFF	C5		
+		A5	OFF		
+		.			
+G5	C6	OFF	C4		
+OFF	OFF		.		
+		G4	OFF		
+		OFF	G5		
+G5	C6		.		
+OFF	OFF	G4	OFF		
+		OFF	F5		
+		G5	OFF		
+G5	C6	OFF	C4		
+OFF	OFF		.		
+		G4	OFF		
+		OFF	F5		
+G5	C6		.		
+OFF	OFF	G4	OFF		
+		OFF	E5		
+			.		
+A5	D6	D4	OFF	D5	
+OFF	OFF	.		.	
+		OFF	A4	.	
+		F5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	A4	.	
+		D5	OFF	.	
+		OFF	F5	.	
+A5	D6	D4	OFF	D6	
+OFF	OFF	.		.	
+		OFF	A4	.	
+		F5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	A4	.	
+		D5	OFF	.	
+		OFF	F5	.	
+A5	D6	A#3	OFF	F5	
+OFF	OFF	.		.	
+		OFF	F4	.	
+		F5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	F4	.	
+		E5	OFF	.	
+		OFF	F5	.	
+A5	D6	A#3	OFF	.	
+OFF	OFF	.		.	
+		OFF	F4	.	
+		E5	OFF	.	
+A5	D6	.		D5	
+OFF	OFF	OFF	F4	.	
+		D5	OFF	F5	
+		.		.	
+A5	C6	OFF	F4	A5	
+OFF	OFF		.	.	
+		C5	OFF	.	
+		OFF	A5	.	
+A5	C6		.	.	
+OFF	OFF	C5	OFF	.	
+		OFF	G5	.	
+		A5	OFF	.	
+A5	C6	OFF	F4	.	
+OFF	OFF		.	.	
+		C5	OFF	A#5	
+		OFF	A#5	.	
+A5	C6		.	.	
+OFF	OFF	C5	OFF	.	
+		OFF	A5	A#5	
+			.	A5	
+G5	C6	C4	OFF	G5	
+OFF	OFF	.		.	
+		OFF	G4	.	
+		G5	OFF	.	
+G5	C6	.		.	
+OFF	OFF	OFF	G4	.	
+		F5	OFF	.	
+		OFF	G5	.	
+G5	C6	C4	OFF	.	
+OFF	OFF	.		.	
+		OFF	G4	.	
+		F5	OFF	.	
+G5	C6	.		F5	
+OFF	OFF	OFF	G4	.	
+		E5	OFF	E5	
+		.		.	
+A5	D6	OFF	D4	D5	
+OFF	OFF		.	.	
+		A4	OFF	.	
+		OFF	F5	.	
+A5	D6		.	.	
+OFF	OFF	A4	OFF	.	
+		OFF	D5	.	
+		F5	OFF	.	
+A5	D6	OFF	D4	D6	
+OFF	OFF		.	.	
+		A4	OFF	.	
+		OFF	F5	.	
+A5	D6		.	.	
+OFF	OFF	A4	OFF	.	
+		OFF	D5	.	
+		F5	OFF	.	
+A5	D6	OFF	A#3	F5	
+OFF	OFF		.	.	
+		F4	OFF	.	
+		OFF	F5	.	
+A5	D6		.	.	
+OFF	OFF	F4	OFF	.	
+		OFF	E5	.	
+		F5	OFF	.	
+A5	D6	OFF	A#3	.	
+OFF	OFF		.	.	
+		F4	OFF	.	
+		OFF	E5	.	
+A5	D6		.	D5	
+OFF	OFF	F4	OFF	.	
+		OFF	D5	F5	
+			.	.	
+A5	C6	F4	OFF	A5	
+OFF	OFF	.		.	
+		OFF	C5	.	
+		A5	OFF	.	
+A5	C6	.		.	
+OFF	OFF	OFF	C5	.	
+		G5	OFF	.	
+		OFF	A5	.	
+A5	C6	F4	OFF	.	
+OFF	OFF	.		.	
+		OFF	C5	A#5	
+		A#5	OFF	.	
+A5	C6	.		.	
+OFF	OFF	OFF	C5	.	
+		A5	OFF	A#5	
+		.		A5	
+G5	C6	OFF	C4	G5	
+OFF	OFF		.	.	
+		G4	OFF	.	
+		OFF	G5	.	
+G5	C6		.	.	
+OFF	OFF	G4	OFF	.	
+		OFF	F5	.	
+		G5	OFF	.	
+G5	C6	OFF	C4	.	
+OFF	OFF		.	.	
+		G4	OFF	.	
+		OFF	F5	.	
+G5	C6		.	F5	
+OFF	OFF	G4	OFF	.	
+		OFF	E5	E5	
+			.	.	
+A5	D6	A#3	OFF	D5	
+OFF	OFF	.		.	
+		OFF	F4	.	
+		D5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	F4	.	
+		C5	OFF	.	
+		OFF	D5	.	
+A5	D6	A#3	OFF	F5	
+OFF	OFF	.		.	
+		OFF	F4	.	
+		D5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	F4	.	
+		C5	OFF	.	
+		OFF	D5	F5	
+G5	C6	A3	OFF	E5	
+OFF	OFF	.		.	
+		OFF	E4	.	
+		C5	OFF	.	
+G5	C6	.		.	
+OFF	OFF	OFF	E4	.	
+		B4	OFF	.	
+		OFF	C5	.	
+G5	C6	A3	OFF	C5	
+OFF	OFF	.		.	
+		OFF	E4	.	
+		C5	OFF	.	
+G5	C6	.		.	
+OFF	OFF	OFF	E4	.	
+		B4	OFF	A4	
+		OFF	C5	.	
+A5	D6	D4	OFF	C5	
+OFF	OFF	.		.	
+		OFF	A4	D5	
+		E5	OFF	OFF	
+A5	D6	.		D5	
+OFF	OFF	OFF	A4	.	
+		C5	OFF	.	
+		OFF	D5	.	
+A5	D6	D4	OFF	.	
+OFF	OFF	.		.	
+		OFF	A4	.	
+		E5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	A4	.	
+		C5	OFF	.	
+		OFF	D5	.	
+A5	D6	D4	OFF	.	
+OFF	OFF	.		.	
+		OFF	A4	.	
+		E5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	A4	.	
+		C5	OFF	.	
+		OFF	D5	.	
+A5	D6	D4	OFF	.	
+OFF	OFF	.		.	
+		OFF	A4	.	
+		E5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	A4	.	
+		C5	OFF	.	
+		OFF	D5	.	
+A5	D6	A#3	OFF	OFF	
+OFF	OFF	.			
+		OFF	F4		
+		D5	OFF		
+A5	D6	.		D5	
+OFF	OFF	OFF	F4	.	
+		C5	OFF	.	
+		OFF	D5	.	
+A5	D6	A#3	OFF	F5	
+OFF	OFF	.		.	
+		OFF	F4	.	
+		D5	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	F4	.	
+		C5	OFF	.	
+		OFF	D5	F5	
+G5	C6	A3	OFF	E5	
+OFF	OFF	.		.	
+		OFF	E4	.	
+		C5	OFF	.	
+G5	C6	.		.	
+OFF	OFF	OFF	E4	.	
+		B4	OFF	.	
+		OFF	C5	.	
+G5	C6	A3	OFF	G5	
+OFF	OFF	.		.	
+		OFF	E4	.	
+		C5	OFF	.	
+G5	C6	.		.	
+OFF	OFF	OFF	E4	.	
+		B4	OFF	.	
+		OFF	C5	.	
+A5	D6	G3	OFF	.	
+OFF	OFF	.		.	
+		OFF	D4	OFF	
+		B4	OFF		
+A5	D6	.		G5	
+OFF	OFF	OFF	D4	.	
+		A4	OFF	.	
+		OFF	B4	.	
+A5	D6	G3	OFF	D5	
+OFF	OFF	.		.	
+		OFF	D4	.	
+		B4	OFF	.	
+A5	D6	.		.	
+OFF	OFF	OFF	D4	.	
+		A4	OFF	E5	
+		OFF	B4	F5	
+A5	C#6	A3	OFF	E5	
+OFF	OFF	.		.	
+		OFF	E4	.	
+		C#5	OFF	.	
+A5	C#6	.		.	
+OFF	OFF	OFF	E4	.	
+		B4	OFF	.	
+		OFF	C#5	.	
+A5	C#6	D5	OFF	.	
+OFF	OFF	OFF	A3	.	
+		E5	OFF	.	
+		OFF	E4	.	
+A5	C#6	F5	OFF	.	
+OFF	OFF	OFF	A4	.	
+		E5	OFF	.	
+		.		.	
+A5	C#6	OFF	A5	.	
+OFF	OFF		.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+			.	.	
+A5	D6	D4	OFF	OFF	
+OFF	OFF	.			
+		OFF	A4		
+		F5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	A4		
+		D5	OFF		
+		OFF	F5		
+A5	D6	D4	OFF		
+OFF	OFF	.			
+		OFF	A4		
+		F5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	A4		
+		D5	OFF		
+		OFF	F5		
+A5	D6	A#3	OFF		
+OFF	OFF	.			
+		OFF	F4		
+		F5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	F4		
+		E5	OFF		
+		OFF	F5		
+A5	D6	A#3	OFF		
+OFF	OFF	.			
+		OFF	F4		
+		E5	OFF		
+A5	D6	.			
+OFF	OFF	OFF	F4		
+		D5	OFF		
+		.			
+A5	C6	OFF	F4		
+OFF	OFF		.		
+		C5	OFF		
+		OFF	A5		
+A5	C6		.		
+OFF	OFF	C5	OFF		
+		OFF	G5		
+		A5	OFF		
+A5	C6	OFF	F4		
+OFF	OFF		.		
+		C5	OFF		
+		OFF	A#5		
+A5	C6		.		
+OFF	OFF	C5	OFF		
+		OFF	A5		
+			.		
+G5	C6	C4	OFF		
+OFF	OFF	.			
+		OFF	G4		
+		G5	OFF		
+G5	C6	.			
+OFF	OFF	OFF	G4		
+		F5	OFF		
+		OFF	G5		
+G5	C6	C4	OFF		
+OFF	OFF	.			
+		OFF	G4		
+		F5	OFF		
+G5	C6	.			
+OFF	OFF	OFF	G4		
+		E5	OFF		
+		.			
+

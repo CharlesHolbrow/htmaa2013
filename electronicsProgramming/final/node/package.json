@@ -1,0 +1,23 @@
+{
+  "name": "ui",
+  "version": "0.0.0",
+  "description": "UI Project for class: \"How to make (almost) anything, 2013\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "serial",
+    "ftdi",
+    "usb",
+    "ui"
+  ],
+  "author": "charlesholbrow",
+  "license": "BSD",
+  "dependencies": {
+    "serialport": "~1.2.5",
+    "express": "~3.4.6",
+    "node-osc": "~0.2.1"
+  }
+}
